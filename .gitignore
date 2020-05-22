@@ -8,3 +8,8 @@
 release/
 scripts/*.go
 TODO*
+/.idea/.gitignore
+/.idea/drone.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
